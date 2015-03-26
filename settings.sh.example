@@ -1,0 +1,7 @@
+export SOURCE_REPO=git://git.gnupg.org/gnupg.git
+
+export GITHUB_USERNAME=your-github-username
+export GITHUB_REPO=your-github-repo.git
+
+# Go to https://github.com/settings/applications
+export GITHUB_TOKEN="your-github-token"
